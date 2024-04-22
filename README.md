@@ -1,7 +1,7 @@
 # HW Scripts - Radial Menu
 
 **Description**
-This is a radial menu system that can help improve RP.
+- This is a radial menu system that can help improve RP.
 Its using the OX Radial Menu, and currently im working on making it funtion on some of my own scripts.
 You can configure alot, but i havent yet made all things nice, since im still working on it.
 Script might look verry messy, and im sorry for that part!
