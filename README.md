@@ -1,37 +1,42 @@
-# gjn_vehicleradialmenu
+# HW Scripts - Radial Menu
 
-- Simple Vehicle Menu with Radial Menu ([ox_lib](https://github.com/overextended/ox_lib))
+**Description**
+This is a radial menu system that can help improve RP.
+Its using the OX Radial Menu, and currently im working on making it funtion on some of my own scripts.
+You can configure alot, but i havent yet made all things nice, since im still working on it.
+Script might look verry messy, and im sorry for that part!
 
-- Menu
 
-![Menu](img/image-2.png)
+**Author**
+- HW Development | HenkW
 
-- Extras
+🛠 **Requirements**
+- ESX Server
+- OX Lib
 
-![Extras](img/image-1.png)
+🌐 **Requirements Download links**
+- es_extended: [https://github.com/esx-framework/esx_core]
+- ox_lib: [https://github.com/overextended/ox_lib]
 
-- Doors
+✅ **Features**
+- Vehicle functions added when in a vehicle.
+- Clothing option added in radial menu.
+- You can open the radial menu via '~' on youre keyboard.
 
-![Doors](img/image-6.png)
+🔧 **Download & Installation**
 
-- Windows
+Follow these steps to set up the radial script on your ESX server:
 
-![Windows](img/image-5.png)
+1. **Download the Files**: Download the script files from the provided source.
 
-- Livery
+2. **Copy to Server Resource Directory**: Place the `hw_radialmenu` folder in the server resource directory.
 
-![Livery](img/image-4.png)
+3. **Update `server.cfg`**: Add the following line to your `server.cfg` file:
 
-- Shuff
+    ```cfg
+    start hw_radialmenu
+    ```
 
-![Shuff](img/image-3.png)
+4. **Start Your Server**: Restart or start your ESX server to load the `hw_radialmenu` resource.
 
-## RESMON
-
-![Resmon](img/image.png)
-
-## REQUIREMENTS:
-- [ox_lib](https://github.com/overextended/ox_lib)
-
-# Credits
-[Livery](https://github.com/juddisjudd/jdd_liveries/tree/main)
+Enjoy the script! <3

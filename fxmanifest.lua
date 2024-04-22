@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'GF Scripts'
-version '1.1.0'
+author 'HenkW'
+version '0.1.8'
 
 lua54 'yes'
 
