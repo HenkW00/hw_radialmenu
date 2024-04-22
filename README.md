@@ -23,6 +23,7 @@ Script might look verry messy, and im sorry for that part!
 - Clothing option added in radial menu.
 - You can open the radial menu via '~' on youre keyboard.
 
+
 🔧 **Download & Installation**
 
 Follow these steps to set up the radial script on your ESX server:
